@@ -20,7 +20,7 @@
 #FMCG_DASHBOARD
 
 
-![Uploading FMCG_Dashboard.jpg…]()
+![FMCG_Dashboard](https://github.com/user-attachments/assets/10af3316-4c90-4502-a56a-328cebc073b7)
 
 
 ## 📋 Table of Contents
